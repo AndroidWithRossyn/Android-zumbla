@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="">
+		<meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=1.01, width=device-width, minimal-ui=1">
+		<style>
+			html{
+				overflow: hidden;
+				background-color: black;
+				padding: 0;
+				border: 0;
+				margin: 0;
+				height: 100%;
+				width:100%;
+
+			}
+			body {
+				-ms-touch-action: none;
+				
+				overflow: hidden;
+				background-image: url('./img/backgrounds/tile.png');
+				background-size: 100% 100%;
+				background-repeat: no-repeat;
+
+				padding: 0;
+				border: 0;
+				margin: 0;
+				height: 100%;
+				width:100%;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div class="game-background" id="main-background"></div>	
+		<script src="lib/phaser.js"></script>
+		<script src="levels.js"></script>
+		<script src="game.js"></script>
+		<script src="hooks.js"></script>
+	</body>
+</html>

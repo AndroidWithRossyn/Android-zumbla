@@ -1,0 +1,43 @@
+{"frames": {
+
+"preloaderBack0000":
+{
+	"frame": {"x":3,"y":3,"w":503,"h":143},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":503,"h":143},
+	"sourceSize": {"w":503,"h":143}
+},
+"preloaderBar0000":
+{
+	"frame": {"x":3,"y":467,"w":363,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":363,"h":54},
+	"sourceSize": {"w":363,"h":54}
+},
+"preloaderFront0000":
+{
+	"frame": {"x":3,"y":148,"w":464,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":464,"h":103},
+	"sourceSize": {"w":464,"h":103}
+},
+"preloaderIcon0000":
+{
+	"frame": {"x":3,"y":253,"w":214,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":214,"h":212},
+	"sourceSize": {"w":214,"h":212}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "16.1.0.86",
+	"image": "preloader.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1"
+}
+}
