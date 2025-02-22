@@ -60,11 +60,11 @@ Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next c
 ## :zap: Latest Articles
 
 <!-- ARTICLES:START -->
+- [Sign Your Git Commits for GitHub](https://rohitrajkhorwal.medium.com/sign-your-git-commits-for-github-47c7a589c2c3?source=rss-40883ee5aa3e------2)
 - [Network Connectivity in Android — Kotlin](https://rohitrajkhorwal.medium.com/network-connectivity-in-android-kotlin-7bd3c3adee13?source=rss-40883ee5aa3e------2)
 - [Android SMS Permissions : Understanding the Security Risks](https://rohitrajkhorwal.medium.com/android-sms-permissions-be33fe30ee41?source=rss-40883ee5aa3e------2)
 - [Say Goodbye to Toast: A Better Way to Show Messages in Your Android App](https://rohitrajkhorwal.medium.com/say-goodbye-to-toast-a-better-way-to-show-messages-in-your-android-app-58622a6578a2?source=rss-40883ee5aa3e------2)
 - [Why You Should Use Dokka 2.0.0 for Your Android Project Documentation](https://rohitrajkhorwal.medium.com/why-you-should-use-dokka-2-0-0-for-your-android-project-documentation-5d8f931a38dd?source=rss-40883ee5aa3e------2)
-- [Master Android Crash Handling: A Complete Guide to Implementing GlobalCrashHandler](https://rohitrajkhorwal.medium.com/android-crash-handling-c6252b6cbd2b?source=rss-40883ee5aa3e------2)
 <!-- ARTICLES:END -->
 
 
