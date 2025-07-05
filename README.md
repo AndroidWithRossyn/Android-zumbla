@@ -60,6 +60,7 @@ Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next c
 ## :zap: Latest Articles
 
 <!-- ARTICLES:START -->
+- [15 Things Poor People Do That the Rich Don’t](https://rohitrajkhorwal.medium.com/15-things-poor-people-do-that-the-rich-dont-ad24458a59ca?source=rss-40883ee5aa3e------2)
 - [The ‘rich getting richer’ Argument](https://rohitrajkhorwal.medium.com/the-rich-getting-richer-argument-af546d1f22af?source=rss-40883ee5aa3e------2)
 <!-- ARTICLES:END -->
 
