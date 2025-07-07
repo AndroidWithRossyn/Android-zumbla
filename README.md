@@ -60,6 +60,7 @@ Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next c
 ## :zap: Latest Articles
 
 <!-- ARTICLES:START -->
+- [7 Financial Mistakes That Are Silently Drowning the Middle Class](https://rohitrajkhorwal.medium.com/7-financial-mistakes-that-are-silently-drowning-the-middle-class-53fab4575448?source=rss-40883ee5aa3e------2)
 - [Money Flows Towards Service and Value — Not Work and Time](https://rohitrajkhorwal.medium.com/money-flows-towards-service-and-value-not-work-and-time-b9ea95160970?source=rss-40883ee5aa3e------2)
 - [The 5 Biggest Financial Crashes in History — and What They All Have in Common](https://rohitrajkhorwal.medium.com/the-5-biggest-financial-crashes-in-history-and-what-they-all-have-in-common-2d87c29eae22?source=rss-40883ee5aa3e------2)
 - [15 Things Poor People Do That the Rich Don’t](https://rohitrajkhorwal.medium.com/15-things-poor-people-do-that-the-rich-dont-ad24458a59ca?source=rss-40883ee5aa3e------2)
